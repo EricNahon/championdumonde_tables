@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "championdumonde-3bbca"
+  },
+  "targets": {
+    "championdumonde-3bbca": {
+      "hosting": {
+        "lestables": [
+          "lestables"
+        ]
+      }
+    }
+  }
+}
